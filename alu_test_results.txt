@@ -1,0 +1,9 @@
+Time is now 30 ns. a = -1, b = 2, op = add, Expected c = 1, Actual c = 1. Test passed.
+Time is now 45 ns. a = -2, b = -3, op = sub, Expected c = -4, Actual c = 1. Test failed! Error message: Problem with Sub......
+Time is now 60 ns. a = -2, b = -3, op = sub, Expected c = 1, Actual c = 1. Test passed.
+Time is now 75 ns. a = 3, b = 3, op = mul, Expected c = 9, Actual c = -7. Test failed! Error message: Problem with Mul      
+Time is now 90 ns. a = 1, b = 7, op = mul, Expected c = 7, Actual c = 7. Test passed.
+Time is now 105 ns. a = -2, b = -3, op = mul, Expected c = 6, Actual c = 6. Test passed.
+Time is now 120 ns. a = -1, b = 8, op = mul, Expected c = -8, Actual c = -8. Test passed.
+Time is now 135 ns. a = 3, b = 3, op = div, Expected c = 1, Actual c = 1. Test passed.
+Time is now 150 ns. a = 14, b = 2, op = div, Expected c = 7, Actual c = -1. Test failed! Error message: Problem with div      

@@ -1,0 +1,9 @@
+add -1 2 15 ns 1 Problem with addition.
+sub -2 -3 15 ns -4 Problem with Sub....... 
+sub -2 -3 15 ns 1 Problem with Sub........ 
+mul 3 3 15 ns 9 Problem with Mul         .
+mul 1 7 15 ns 7 Problem with Mul         .
+mul -2 -3 15 ns 6 Problem with Mul       .
+mul -1 8 15 ns -8 Problem with Mul       .
+div 3 3 15 ns 1 Problem with div           .
+div 14 2 15 ns 7 Problem with div        .
